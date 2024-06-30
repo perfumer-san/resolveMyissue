@@ -7,7 +7,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello there
 
-- 🧑‍💻 I'm a PMO and Solution Engineer.
+- 🧑‍💻 I work as a PMO (currently) or Solution Engineer (sometimes) in Japan.
 - 📫 How to reach me: [About me](https://linktr.ee/perfumer_)
 <br>
 
